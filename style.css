@@ -57,6 +57,7 @@ header{
     color:white;
     padding:4em;
     margin:2em;
+    flex-direction: row;
 }
 div .col-sm-3{
 height:"200px";width:200px; margin:10px 10px 10px 10px;
